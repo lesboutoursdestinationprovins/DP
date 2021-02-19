@@ -1,0 +1,23 @@
+body {
+    background-image: url("99-996836_civ-6-menu-background.png");
+}
+h1 {
+    color: rgba(255, 255, 255, 0.788);
+    font-weight: bold;
+}
+.t2 {
+    margin-bottom: 2rem;
+}
+.card {
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.788);
+    border-color: rgba(255, 255, 255, 0.788);
+    font-size: 18px;
+}
+.btn {
+    background-color:  rgba(255, 255, 255, 0.945);
+    color: black;
+}
+.lien {
+color: beige;
+}
